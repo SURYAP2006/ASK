@@ -1,5 +1,5 @@
-# SURYA P
-# 212223060280
+# NAME - SURYA P
+# REG.N0 - 212223060280
 # ASK AND FSK
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
